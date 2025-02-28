@@ -32,14 +32,14 @@
 - [One-Shot Prompting](#one-shot-prompting)
 - [Few-Shot Prompting](#few-shot-prompting)
 - [Chain-of-Thought (CoT) Prompting](#chain-of-thought-cot-prompting) 
-- [*Role-Play Prompting]()
-- [*Counterfactual Prompting]()
-- [*Self-Consistency]()
-- [*Tree of Thoughts (ToT) Prompting]()
-- [*Generated Knowledge Prompting]()
-- [*Prompt Chaining]()
-- [*Meta Prompting]()
-- [*Constitutional AI Prompting]()
+- *Role-Play Prompting
+- *Counterfactual Prompting
+- *Self-Consistency
+- *Tree of Thoughts (ToT) Prompting
+- *Generated Knowledge Prompting
+- *Prompt Chaining
+- *Meta Prompting
+- *Constitutional AI Prompting
 
 ---
 
