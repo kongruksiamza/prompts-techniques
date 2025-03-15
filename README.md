@@ -171,4 +171,4 @@
 ```
 
 ## 🎓 คอร์สเรียนที่เกี่ยวข้อง [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](https://www.udemy.com/user/kong-ruksiam/)
-- [Generative AI & Prompt Engineering](https://www.udemy.com/course/generative-ai-prompt-engineering/?referralCode=41D734922792E6AF47B1)
+- [Generative AI & Prompt Engineering (Advance)](https://www.udemy.com/course/generative-ai-prompt-engineering/?referralCode=41D734922792E6AF47B1)
